@@ -35,8 +35,8 @@ To transform raw sales data into actionable insights using Power BI, enabling bu
 ## 🛠 Technical Details  
 - **Power BI Features Used**:  
   - KPI Cards  
-  - DAX Queries  
-  - Custom Measures (e.g., `AvgDelhivery` column using DAX)  
+  - DAX Queries (Salesforecast = SUMMARIZE('SuperStore_Sales_Dataset csv','SuperStore_Sales_Dataset csv'[Order Date],"Total Sales",SUM('SuperStore_Sales_Dataset csv'[Sales])) )
+  - Custom Measures (AvgDelivery = DATEDIFF('SuperStore_Sales_Dataset csv'[Order Date],'SuperStore_Sales_Dataset csv'[Ship Date],DAY) using DAX)  
   - Area Charts for YoY Trends  
   - Forecasting Visualization  
   - Map Visual for State-wise Sales  
