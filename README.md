@@ -4,6 +4,7 @@
 This Power BI dashboard provides a comprehensive analysis of SuperStore sales data, offering key insights into sales trends, payment modes, regional performance, and customer segmentation. Additionally, it includes a **15-day sales forecast** to predict future sales trends using Power BI's built-in forecasting capabilities.  
 
 🎯 Objective
+
 To transform raw sales data into actionable insights using Power BI, enabling businesses to boost revenue, optimize operations, and enhance customer satisfaction.
 
 ## Features  
