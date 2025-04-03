@@ -75,7 +75,3 @@ Based on insights from the dashboard, here are some strategies to improve sales:
 7. **Data-Driven Discounts & Offers** 🎯  
    - Use sales forecasting to identify slow periods and introduce time-based discounts.  
    - Implement dynamic pricing based on demand trends.  
-
-## 🔮 Future Enhancements  
-- Add **drill-through reports** for deeper data analysis.  
-- Enhance visualizations with **advanced DAX calculations**.  
